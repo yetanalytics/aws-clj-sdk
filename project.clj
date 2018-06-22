@@ -1,4 +1,4 @@
-(defproject portkey/aws-clj-sdk "0.1.0-SNAPSHOT"
+(defproject com.yetanalytics/aws-clj-sdk "0.1.0-SNAPSHOT"
   :description "Clojure bindings for AWS"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
